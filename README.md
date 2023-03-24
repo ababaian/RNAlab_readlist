@@ -30,6 +30,8 @@ A reading list of essential(#) or suggested readings which I've personally found
 
 13. The Emperor of All Maladies - Siddhartha Mukherjee (2010)
 
+14. Viral - Matt Ridley + Alina Chan
+
 ## Fiction / Philosophy
 
 1. Walden - Henry David Thoreau (1854)
